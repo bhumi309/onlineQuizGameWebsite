@@ -1,0 +1,76 @@
+	
+1.HTML is what type of language ?
+A.Scripting Language
+B.Markup Language
+C.Programming Language
+D.Network Protocol
+Show Answer:Markup Language
+
+2.HTML uses
+A.User defined tags
+B.Pre-specified tags
+C.Fixed tags defined by the language
+D.Tags only for linking
+Show Answer:Fixed tags defined by the language
+
+	
+3.The year in which HTML was first proposed _______.
+A.1990
+B.1980
+C.2000
+D.1995
+Show Answer:1990
+
+	
+4.Fundamental HTML Block is known as ___________.
+A.HTML Body
+B.HTML Tag
+C.HTML Attribute
+D.HTML Element
+Show Answer:HTML Tag
+
+	
+5.Apart from <b> tag, what other tag makes text bold ?
+A.<fat>
+B.<strong>
+C.<black>
+D.<emp>
+Show Answer:<strong>
+
+6.What is the full form of HTML?
+A.HyperText Markup Language
+B.Hyper Teach Markup Language
+C.Hyper Tech Markup Language
+D.None of these
+Show Answer:HyperText Markup Language
+	
+7.Who is Known as the father of World Wide Web (WWW)?
+A.Robert Cailliau
+B.Tim Thompson
+C.Charles Darwin
+D.Tim Berners-Lee
+Show Answer:Tim Berners-Lee
+	
+8.What should be the first tag in any HTML document?
+A.<head>
+B.<title>
+C.<html>
+D.<document>
+Show Answer:<html>
+	
+9.How can you make a bulleted list with numbers?
+A.<dl>
+B.<ol>
+C.<list>
+D.<ul>
+Show Answer:<ol>
+	
+10.What tag is used to display a picture in a HTML page?
+A.picture
+B.image
+C.img
+D.src
+
+Show Answer:img
+
+bcabbadcbc
